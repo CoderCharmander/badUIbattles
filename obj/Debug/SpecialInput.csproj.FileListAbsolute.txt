@@ -1,0 +1,10 @@
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\bin\Debug\SpecialInput.exe.config
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\bin\Debug\SpecialInput.exe
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\bin\Debug\SpecialInput.pdb
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.csprojAssemblyReference.cache
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.Choose.resources
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.Form1.resources
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.Properties.Resources.resources
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.csproj.GenerateResource.cache
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.exe
+C:\Users\gép\source\repos\baUIbattles\SpecialInput\obj\Debug\SpecialInput.pdb
